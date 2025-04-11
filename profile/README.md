@@ -1,7 +1,7 @@
 # 🧭 Was ist **DESYBRI**?
 
 **DESYBRI** ist das standardisierte Design-System für digitale Verwaltungsdienste auf Bundesebene in Deutschland.  
-Es bildet die verlässliche Grundlage für barrierefreie, konsistente und benutzerfreundliche digitale Lösungen – sowohl für Bürger*innen als auch für Behörden.
+Es bildet die verlässliche Grundlage für barrierefreie, konsistente und nutzendenfreundliche digitale Lösungen – sowohl für Bürger*innen als auch für Behörden.
 
 > **DESYBRI vereinfacht digitale Verwaltung – klar, inklusiv und einheitlich.**
 
@@ -9,12 +9,12 @@ Es bildet die verlässliche Grundlage für barrierefreie, konsistente und benutz
 
 ## 🎯 Vision
 
-**Verwaltung einfach & nutzerzentriert machen.**
+**Verwaltung einfach & menschzentriert machen.**
 
 DESYBRI vereint alles, was es für moderne, digitale Verwaltungsangebote braucht – aus einer Hand:
 
 - Barrierefreies Design-System
-- Agiler Design- und Entwicklungsprozess
+- Agiler & vereinter Design- und Entwicklungsprozess
 - Qualitative Leitplanken für UX & Barrierefreiheit
 - Design Library in **Figma**
 - Development Library auf **GitHub (React)**
@@ -39,10 +39,10 @@ Er ermöglicht die enge Zusammenarbeit zwischen Design und Entwicklung – von d
 
 ### 2. 🎨 Design Library (Figma)
 
-- Entwickelt nach **WCAG AAA**-Standards
+- Entwickelt mit Blick auf **WCAG AAA**-Standards
 - Aufbau nach dem **Atomic-Design-Prinzip**
 - Orientierung am **Styleguide des Bundes**
-- Mehr als **3 Jahre iterativ weiterentwickelt**
+- Mehr als **3 Jahre iterativ & menschzentriert weiterentwickelt**
 - Bietet konsistente, barrierefreie Design-Grundlagen für digitale Verwaltungsangebote
 
 ---
@@ -52,7 +52,7 @@ Er ermöglicht die enge Zusammenarbeit zwischen Design und Entwicklung – von d
 - Technisches Gegenstück zur Design Library
 - Basierend auf den Komponenten von **KoliBri**
 - Umfassend erweitert zur vollständigen Abbildung der Figma-Bibliothek
-- Gewährleistet hohen **Speed**, **Konsistenz** und **Zugänglichkeit** in der Entwicklung
+- Gewährleistet hohe **Geschwindigkeit**, **Konsistenz** und **Zugänglichkeit** in der Entwicklung
 
 ---
 
@@ -64,5 +64,5 @@ Drei praxisnahe **Checklisten** begleiten den gesamten Gestaltungs- und Entwickl
 - **Barrierefreiheit**
 - **UX Writing**
 
-So wird sichergestellt, dass jedes Produkt nicht nur funktioniert – sondern auch **verständlich**, **inklusiv** und **nutzerorientiert** ist.
+So wird sichergestellt, dass jedes Produkt nicht nur funktioniert – sondern auch **verständlich**, **inklusiv** und **menschorientiert** ist.
 
